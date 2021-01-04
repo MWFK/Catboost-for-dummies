@@ -1,3 +1,3 @@
 # Catboost-for-dummies
 
-This notebook has the best ways to use Catboost
+ongoing work on the current notebook
